@@ -1,5 +1,5 @@
 {
-  "name": "currency-converter",
+  "name": "currency-morph",
   "version": "1.0.0",
   "description": "Npm package to convert currency",
   "main": "index.js",
